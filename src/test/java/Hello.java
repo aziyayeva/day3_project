@@ -7,6 +7,7 @@ public class Hello {
         System.out.println("Let's learn Git");
 
         System.out.println("Commit to Local Repository");
+        System.out.println("Commit to Remote Repository");
     }
 }
 
