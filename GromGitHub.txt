@@ -1,0 +1,5 @@
+public class GitStudent{
+    public static void main (String [] args {
+        System.out.println("I just created a file from GitHub.com and will need to fetch it on IntelliJ");
+    }
+}
