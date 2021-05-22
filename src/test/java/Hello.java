@@ -5,6 +5,8 @@ public class Hello {
         System.out.println("Hello World");
         System.out.println("Git is fun");
         System.out.println("Let's learn Git");
+
+        System.out.println("Commit to Local Repository");
     }
 }
 
